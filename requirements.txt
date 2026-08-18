@@ -1,0 +1,2 @@
+# No third-party Python package is required for the included helper scripts.
+# Python >= 3.9
